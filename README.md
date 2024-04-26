@@ -23,3 +23,5 @@ Hi 👋 mein Name ist Adem Tozlu
 <p align="left"> <a href="https://www.github.com/Adem-Tozlu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="[https://www.linkedin.com/in/adem-tozlu-8906b52a5/](https://www.linkedin.com/in/adem-tozlu-8906b52a5/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 📧 Adem-Tozlu@hotmail.de
+
+![](https://komarev.com/ghpvc/?username=herbertnikolajewskidci&color=blue)
