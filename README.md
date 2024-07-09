@@ -22,7 +22,7 @@ Hi 👋 mein Name ist Adem Tozlu
 <img height= "218" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adem-Tozlu&theme=react&layout=compact" />
 
 ### Socials
-<p align="left"> <a href="https://www.github.com/Adem-Tozlu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adem-tozlu-8906b52a5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Adem-Tozlu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adem-tozlu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 📧 Adem-Tozlu@hotmail.de
 
