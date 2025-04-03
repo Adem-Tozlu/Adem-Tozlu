@@ -1,7 +1,7 @@
 Hi 👋 mein Name ist Adem Tozlu
  - Ich lebe in Berlin,Deutschland 🌍
  
- - Ich bin ein Student an der [Digital Career Institute](https://digitalcareerinstitute.org/de/) !
+ - Technikbegeistert und lösungsorientiert – bereit für spannende Herausforderungen
 
 # Skills
 <p align="left">
